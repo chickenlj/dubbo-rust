@@ -70,4 +70,4 @@ header: # `header` section is configurations for source codes license header.
 
 dependency:
   files:
-    - Cargo.toml
+    - dubbo/Cargo.toml
